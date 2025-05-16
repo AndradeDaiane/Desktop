@@ -1,0 +1,22 @@
+2025-05-16 20:17:26,792 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2025-05-16 20:17:26,836 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-05-16 20:17:26,838 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-05-16 20:17:26,861 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-05-16 20:17:26,861 INFO o.a.j.JMeter: Version 5.6.3
+2025-05-16 20:17:26,862 INFO o.a.j.JMeter: java.version=21.0.7
+2025-05-16 20:17:26,862 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-05-16 20:17:26,862 INFO o.a.j.JMeter: os.name=Windows 10
+2025-05-16 20:17:26,862 INFO o.a.j.JMeter: os.arch=amd64
+2025-05-16 20:17:26,863 INFO o.a.j.JMeter: os.version=10.0
+2025-05-16 20:17:26,863 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-05-16 20:17:26,864 INFO o.a.j.JMeter: java.awt.headless=null
+2025-05-16 20:17:26,864 INFO o.a.j.JMeter: Max memory     =1585446912
+2025-05-16 20:17:26,864 INFO o.a.j.JMeter: Available Processors =4
+2025-05-16 20:17:26,891 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2025-05-16 20:17:26,891 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2025-05-16 20:17:26,892 INFO o.a.j.JMeter: JMeterHome=C:\Users\12121595\Desktop\apache-jmeter-5.6.3
+2025-05-16 20:17:26,892 INFO o.a.j.JMeter: user.dir  =C:\Users\12121595\Desktop\apache-jmeter-5.6.3\bin
+2025-05-16 20:17:26,892 INFO o.a.j.JMeter: PWD       =C:\Users\12121595\Desktop\apache-jmeter-5.6.3\bin
+2025-05-16 20:17:26,897 INFO o.a.j.JMeter: IP: 172.25.116.12 Name: CL-L501-04291 FullName: CL-L501-04291.newtonpaiva.edu.br
+2025-05-16 20:17:26,938 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-05-16 20:17:27,850 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
